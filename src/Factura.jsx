@@ -7,7 +7,7 @@ function Factura(){
                  <caption>Factura</caption>
                  <tr>
                 <td></td>
-                <th>SERVICIO</th>
+                <th>SERVICIOS</th>
                 <th>VALOR</th>
                 </tr>
                  <tr>
