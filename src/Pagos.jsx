@@ -3,10 +3,12 @@ import "./Estilos.css"
 function Pagos(){
     return (<div className="Contenido">
 
-      
-<div className="servicio"> 
-    <p>
-SERVICIOS POR PAGAR
+     
+<div className="servicio">
+     <p>
+        <h1>
+        SERVICIOS POR PAGAR
+        </h1>
     </p>
     <p>
     Paciente: Lorem ipsum dolor sit amet       
